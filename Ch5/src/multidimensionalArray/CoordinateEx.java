@@ -10,7 +10,7 @@ public class CoordinateEx {
 		
 		char[][] board = new char[SIZE][SIZE];
 		byte[][] shipBoard = {
-		//   1 2 3 4 5 6 7 8 9 		
+		//   1 2 3 4 5 6 7 8 9 	
 			{0,0,0,0,0,0,0,0,0},
 			{1,1,1,1,0,0,1,0,0},
 			{0,0,0,0,0,0,1,0,0},
